@@ -25,7 +25,7 @@ export const ProjectsData = [{
         description: "- Developed applications using Appsmith API and setting up Notion and Amazon Data sources and drafted 'How-to' guides for the same. \n - [Using Notion as Datasource](https://github.com/appsmithorg/appsmith-docs/pull/264) and [using Amazon Redhsift as Datasource](https://github.com/appsmithorg/appsmith-docs/pull/270). \n - And implemented a feature enhancement to autocomplete Styled components for React Client. ",
         tools: ["Javascript", "AWS", "jQuery"],
         githubLink: "https://github.com/appsmithorg/appsmith/pull/8601",
-        demoLink: null,
+        demoLink: "https://docs.appsmith.com/how-to-guides/use-redshift-as-data-source-on-appsmith",
     }, 
     {
         name: "Apache Camel K",
@@ -39,6 +39,6 @@ export const ProjectsData = [{
         description: "- Added automated tests for pulling packages from private registries supported by Crossplane.\n -  Modified the documenatation and some other minor contributions.",
         tools: ["Golang", "kubernetes"],
         githubLink: "https://github.com/crossplane/crossplane/pull/3147",
-        demoLink: null,
+        demoLink: "https://mentorship.lfx.linuxfoundation.org/project/c6e63427-09d9-42e5-b2af-c9c66e57881a",
     },
 ];
