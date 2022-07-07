@@ -94,7 +94,7 @@ const Contact = () => {
     <Container id="contact">
       <a
         className="button buttonType interactive"
-        href="https://drive.google.com/file/d/1HCNV0uo4lil2IAPrYEmYB0cRrADMyGCP/view?usp=sharing"
+        href="https://drive.google.com/file/d/1pFjTKjQmSsanwXp06VjLdv4NyD3Lzxz0/view?usp=sharing"
         target="_blank"
       >
         <span>View Resume</span>
