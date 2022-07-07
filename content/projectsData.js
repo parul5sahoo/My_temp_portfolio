@@ -10,7 +10,7 @@ export const ProjectsData = [{
         description: "- A crowdfunding applicatrion to generate funding for farmers in the form of Cryptocurrency using Web3 libraries. \n - The website maintainers can create campaigns for different farmers and create requests to generate fundings for various purposes.",
         tools: ["React", "Solidity", "Semantic UI", "Web3", "Next.js"],
         githubLink: "https://github.com/parul5sahoo/GainA-Grain",
-        demoLink: null,
+        demoLink: "https://gain-a-grain.vercel.app/",
     },
 
     {
