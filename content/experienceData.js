@@ -27,7 +27,7 @@ export const ExperienceData = [
     duration: "Aug 2021 - Present",
     type: "Open Source Contribution",
     description:
-      "- Received the opportunity to serve in the Kubernetes Release team for 3 release cycles consecutively. \n - Served as a Release Notes shadow for v1.23 and v1.24, generated release notes and release notes website patches using Krel. \n - In v1.25 performed the tasks of tracking enhancements and deprecations implemented during that release cycle as an Enhancements shadow.",
+      "- Received the opportunity to serve in the Kubernetes Release team for 3 release cycles consecutively. \n - Served as a Release Notes shadow for v1.23 and v1.24, generated release notes and release notes website patches using Krel. \n - In v1.26 & v1.25 performed the tasks of tracking enhancements and deprecations implemented during that release cycle as an Enhancements shadow. \n - Also working as a SIG-CLI reviewer mentee for the ladder cohort.",
   },
   {
     id: "asmth",
