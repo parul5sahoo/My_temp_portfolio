@@ -38,7 +38,7 @@ export const ProjectsData = [{
         name: "Crossplane",
         description: "- Added automated tests for pulling packages from private registries supported by Crossplane.\n -  Modified the documenatation and some other minor contributions.",
         tools: ["Golang", "kubernetes"],
-        githubLink: "https://github.com/crossplane/crossplane/pull/3147",
+        githubLink: "https://github.com/crossplane/test/pull/26",
         demoLink: "https://mentorship.lfx.linuxfoundation.org/project/c6e63427-09d9-42e5-b2af-c9c66e57881a",
     },
 ];
