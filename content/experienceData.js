@@ -4,10 +4,10 @@ export const ExperienceData = [
     role: "LFX Summer'22 Mentee",
     name: "CNCF: Crossplane",
     link: "https://mentorship.lfx.linuxfoundation.org/mentee/97988b96-f317-46f4-9e80-06a72c016102",
-    duration: "Jun 2022 - Present",
+    duration: "Jun 2022 - Aug 2022",
     type: "Internship",
     description:
-      "- Selected as a Mentee to Crossplane as part of the LFX Mentorship program for Summer'22.\n - Working to add automated tests for pulling packages from private registries supported by Crossplane.\n - And drafting relevant documenation for the same.",
+      "- Selected as a Mentee to Crossplane as part of the LFX Mentorship program for Summer'22.\n - Worked on adding automated tests for pulling packages from private registries supported by Crossplane.\n - And drafted relevant documenation for the same.",
   },
   {
     id: "ln",
@@ -24,10 +24,10 @@ export const ExperienceData = [
     role: "Release Team Member",
     name: "Kubernetes",
     link: "https://github.com/parul5sahoo/sig-release/blob/master/releases/release-1.23/release-team.md",
-    duration: "Aug 2021 - Present",
+    duration: "Aug 2021 - Dec 2022",
     type: "Open Source Contribution",
     description:
-      "- Received the opportunity to serve in the Kubernetes Release team for 3 release cycles consecutively. \n - Served as a Release Notes shadow for v1.23 and v1.24, generated release notes and release notes website patches using Krel. \n - In v1.26 & v1.25 performed the tasks of tracking enhancements and deprecations implemented during that release cycle as an Enhancements shadow. \n - Also working as a SIG-CLI reviewer mentee for the ladder cohort.",
+      "- Received the opportunity to serve in the Kubernetes Release team for 3 release cycles consecutively. \n - Served as a Release Notes shadow for v1.23 and v1.24, generated release notes and release notes website patches using Krel. \n - In v1.26 & v1.25 performed the tasks of tracking enhancements and deprecations implemented during that release cycle as an Enhancements shadow. \n - Also worked as a SIG-CLI reviewer mentee for the ladder cohort.",
   },
   {
     id: "asmth",
