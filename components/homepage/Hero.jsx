@@ -158,7 +158,7 @@ const Hero = () => {
         </div>
         <a
           className="button buttonType interactive"
-          href="https://drive.google.com/file/d/1wvuw3OVR45lyUrrcFH_8e-dOdAXg_gWC/view?usp=sharing"
+          href="https://drive.google.com/file/d/1U4nbhqUhVaCryYCFqqIj6SFtU5u0sflq/view?usp=sharing"
           target="_blank"
         >
           <span>Resume</span>
