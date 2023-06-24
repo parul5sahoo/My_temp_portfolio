@@ -144,7 +144,7 @@ const About = () => {
         <div className="leftSection">
           <p>Hello, I'm Parul,</p>
           <p>
-            A final year CSE undergrad at
+            A CSE graduate from
             <a
               className="interactive"
               href="https://www.cet.edu.in/"
@@ -168,7 +168,7 @@ const About = () => {
           <ul>
             <li>Kubernetes</li>
             <li>Golang</li>
-            <li>Crossplane</li>
+            <li>CI/CD</li>
             <li>AWS</li>
           </ul>
         </div>
